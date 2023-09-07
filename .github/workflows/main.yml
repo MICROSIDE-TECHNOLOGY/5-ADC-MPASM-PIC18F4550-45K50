@@ -27,5 +27,5 @@ jobs:
           gist_url: https://gist.github.com/microside-mx/6dc26ed4bcb2be803574b095d7de4100
           gist_title: Práctica 5 - ADC MPLAB X PIC assembler MPASM PIC18F45K50
           gist_description: Prácticas MPASM
-          github_file: Proyecto/PIC18F4550/ADC.X/adc.asm
+          github_file: Proyecto/PIC18F45K50/ADC.X/adc.asm
           file_encoding: ISO-8859-1
